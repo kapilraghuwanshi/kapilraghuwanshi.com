@@ -1,0 +1,37 @@
+﻿.TITLE1
+{
+    font-family:  Comic Sans MS ; font-size: larger ; color:#DC5C1D; font-weight: bolder  ;
+    padding:5px 10px 5px 10px;
+    }
+.TITLE2
+{
+    font-family:  Comic Sans MS ; font-size:larger; color:#19A622 ; font-weight: bolder ;
+    padding:5px 10px 5px 10px;
+    }    
+ .TITLE3
+{
+    font-family:  Comic Sans MS ; font-size:larger; color:#D01D7E; font-weight: bolder ;
+    padding:5px 10px 5px 10px;
+    }   
+ .TITLE4
+{
+    font-family:  Comic Sans MS ; font-size:larger; color:#3149AB ; font-weight: bolder ;
+    padding:5px 10px 5px 10px;
+    }   
+ .TITLE5
+{
+    font-family:  Comic Sans MS ; font-size:larger; color:#06453D ; font-weight: bolder ;
+    padding:5px 10px 5px 10px;
+    }   
+    .CONTENT
+{
+    font-family:Arial Unicode MS; font-size: medium; color: Gray; font-weight: lighter ;
+    padding:5px 10px 5px 10px;
+    }
+    
+    .Apps
+    {
+        
+    font-family:  Comic Sans MS ; font-size: larger ; color:#1AA3D0; font-weight: lighter   ;
+    padding:5px 10px 5px 10px;
+        }
